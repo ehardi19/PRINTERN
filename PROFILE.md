@@ -11,9 +11,9 @@
   - NO. HP          : 085716100054
   - EMAIL           : ehardi19@gmail.com / ehardi@student.telkomuniveristy.ac.id
   - LINE            : eko_hardi
-  - FACEBOOK        : [ekohardiyanto19] (https://web.facebook.com/ekohardiyanto19)
-  - INSTAGRAM       : [ekohardiyanto19] (https://www.instagram.com/ekohardiyanto19)
-  - GITHUB          : [GitHub Pages](https://github.com/ehardi19).
+  - FACEBOOK        : [ekohardiyanto19](https://web.facebook.com/ekohardiyanto19)
+  - INSTAGRAM       : [ekohardiyanto19](https://www.instagram.com/ekohardiyanto19)
+  - GITHUB          : [ehardi19](https://github.com/ehardi19)
 
 # ALASAN INGIN MASUK COMPUTING
 
