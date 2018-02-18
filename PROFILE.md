@@ -14,6 +14,9 @@
   - Facebook        : [ekohardiyanto19](https://web.facebook.com/ekohardiyanto19)
   - Instagram       : [ekohardiyanto19](https://www.instagram.com/ekohardiyanto19)
   - GitHub          : [ehardi19](https://github.com/ehardi19)
+ - Hobi
+  - [x] Gaming
+  - [x] Belajar Programming
 
 # ALASAN INGIN MASUK COMPUTING
 
