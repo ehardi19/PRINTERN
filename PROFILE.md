@@ -3,10 +3,10 @@
 - Nama Lengkap    : Eko Hardiyanto
 - Nama Panggilan  : Eko
 - NIM             : 1301174099
-- Jurusan         : S1 TEKNIK INFORMATIKA
+- Jurusan         : S1 Teknik Informatika
 - Angkatan        : 2017
-- TTL             : BATANG, 19 APRIL 1999
-- Jenis Kelamin   : LAKI-LAKI
+- TTL             : Batang, 19 April 1999
+- Jenis Kelamin   : Laki-laki
 - Kontak
   - No. HP          : 085716100054
   - Email           : ehardi19@gmail.com / ehardi@student.telkomuniveristy.ac.id
