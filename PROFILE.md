@@ -1,19 +1,19 @@
 # BIODATA
 
-- NAMA LENGKAP    : EKO HARDIYANTO
-- NAMA PANGGILAN  : EKO
+- Nama Lengkap    : Eko Hardiyanto
+- Nama Panggilan  : Eko
 - NIM             : 1301174099
-- JURUSAN         : S1 TEKNIK INFORMATIKA
-- ANGKATAN        : 2017
+- Jurusan         : S1 TEKNIK INFORMATIKA
+- Angkatan        : 2017
 - TTL             : BATANG, 19 APRIL 1999
-- JENIS KELAMIN   : LAKI-LAKI
-- KONTAK
-  - NO. HP          : 085716100054
-  - EMAIL           : ehardi19@gmail.com / ehardi@student.telkomuniveristy.ac.id
-  - LINE            : eko_hardi
-  - FACEBOOK        : [ekohardiyanto19](https://web.facebook.com/ekohardiyanto19)
-  - INSTAGRAM       : [ekohardiyanto19](https://www.instagram.com/ekohardiyanto19)
-  - GITHUB          : [ehardi19](https://github.com/ehardi19)
+- Jenis Kelamin   : LAKI-LAKI
+- Kontak
+  - No. HP          : 085716100054
+  - Email           : ehardi19@gmail.com / ehardi@student.telkomuniveristy.ac.id
+  - Line            : eko_hardi
+  - Facebook        : [ekohardiyanto19](https://web.facebook.com/ekohardiyanto19)
+  - Instagram       : [ekohardiyanto19](https://www.instagram.com/ekohardiyanto19)
+  - GitHub          : [ehardi19](https://github.com/ehardi19)
 
 # ALASAN INGIN MASUK COMPUTING
 
