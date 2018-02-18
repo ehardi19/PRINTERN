@@ -1,2 +1,2 @@
 # PRINTERN
-TUGAS INTERSHIP COMPUTING LABORATORY MENGENAI PROFIL DIRI & ALASAN MASUK DENGAN MENGGUNAKAN MARKDOWN DI GITHUB
+Tugas internship di **_Computing Laboratory_** mengenai profil diri dan alasan masuk menggunakan _markdown_ di [GitHub](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
