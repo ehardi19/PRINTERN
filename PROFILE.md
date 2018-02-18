@@ -7,12 +7,13 @@
 - ANGKATAN        : 2017
 - TTL             : BATANG, 19 APRIL 1999
 - JENIS KELAMIN   : LAKI-LAKI
-- NO. HP          : 085716100054
-- EMAIL           : ehardi19@gmail.com / ehardi@student.telkomuniveristy.ac.id
-- LINE            : eko_hardi
-- FACEBOOK        : ekohardiyanto19
-- INSTAGRAM       : ekohardiyanto19
-- GITHUB          : ehardi
+- KONTAK
+  - NO. HP          : 085716100054
+  - EMAIL           : ehardi19@gmail.com / ehardi@student.telkomuniveristy.ac.id
+  - LINE            : eko_hardi
+  - FACEBOOK        : ekohardiyanto19
+  - INSTAGRAM       : ekohardiyanto19
+  - GITHUB          : ehardi
 
 # ALASAN INGIN MASUK COMPUTING
 
