@@ -17,4 +17,4 @@
 
 # ALASAN INGIN MASUK COMPUTING
 
-**Komputasi** diartikan sebagai cara untuk pemecahan masalah menggunakan algoritma. Alasan saya ingin masuk ke *Computing Laboratory* adalah agar saya dapat mengasah dan mengembangkan algortima saya untuk memecahkan masalah dengan lebih cepat dan efisien. Dengan algoritma yang baik maka program yang kita buat dapat memiliki peforma yang lebih dan dapat mengurangi kesalahan/bug. Saya ingin menambah wawasan konsep dan algoritma apa saja yang baik dan dapat diimplementasikan terhadap masalah dalam kehipudan sehari-hari.
+> **Komputasi** diartikan sebagai cara untuk pemecahan masalah menggunakan algoritma. Alasan saya ingin masuk ke *Computing Laboratory* adalah agar saya dapat mengasah dan mengembangkan algortima saya untuk memecahkan masalah dengan lebih cepat dan efisien. Dengan algoritma yang baik maka program yang kita buat dapat memiliki peforma yang lebih dan dapat mengurangi kesalahan/bug. Saya ingin menambah wawasan konsep dan algoritma apa saja yang baik dan dapat diimplementasikan terhadap masalah dalam kehipudan sehari-hari.
