@@ -32,6 +32,9 @@ SDN Cibubur 05  | 2005-2011
 - [x] Belajar Programming
 - [x] Gaming
 
+## Motto Hidup
+> _Tidak ada kata tidak bisa, yang ada hanyalah mau atau tidak mau_
+
 # ALASAN INGIN MASUK COMPUTING
 
 > Hi, nama saya Eko Hardiyanto :smile:, berikut adalah alasan saya ingin masuk ke _Computing Laboratory_. **Komputasi** diartikan sebagai cara untuk pemecahan masalah menggunakan algoritma. Alasan saya ingin masuk adalah agar saya dapat mengasah dan mengembangkan algortima saya untuk memecahkan masalah dengan lebih cepat dan efisien. Dengan algoritma yang baik maka program yang kita buat dapat memiliki peforma yang lebih dan dapat mengurangi kesalahan/bug. Saya ingin menambah wawasan konsep dan algoritma apa saja yang baik dan dapat diimplementasikan terhadap masalah dalam kehipudan sehari-hari. Saya juga melihat *Computing Laboratory* adalah salah satu lab yang terbaik dan aktif. Sehingga saya yakin ingin masuk ke lab ini. Saya ingin masuk untuk belajar, berlatih, dan berkontribusi.
