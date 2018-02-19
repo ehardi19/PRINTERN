@@ -1,5 +1,7 @@
 # BIODATA
 
+![Profile](eko.jpg)
+
 - Nama Lengkap    : Eko Hardiyanto
 - Nama Panggilan  : Eko
 - NIM             : 1301174099
@@ -7,6 +9,7 @@
 - Angkatan        : 2017
 - TTL             : Batang, 19 April 1999
 - Jenis Kelamin   : Laki-laki
+- Asal            : Depok, Jawa Barat
 - Kontak
   - No. HP          : 085716100054
   - Email           : ehardi19@gmail.com / ehardi@student.telkomuniveristy.ac.id
@@ -17,6 +20,14 @@
 - Hobi
   - Gaming
   - Belajar Programming
+- Riwayat Penidikan
+
+Instansi     | Tahun
+------------ | -------------
+Telkom University - S1 Teknik Informatika | 2017-Present
+SMAN 4 Depok - IPA | 2014-2017
+SMPN 103 Jakarta  | 2011-2014
+SDN Cibubur 05  | 2005-2011
 
 # ALASAN INGIN MASUK COMPUTING
 
