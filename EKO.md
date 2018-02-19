@@ -17,9 +17,7 @@
   - Facebook        : [ekohardiyanto19](https://web.facebook.com/ekohardiyanto19)
   - Instagram       : [ekohardiyanto19](https://www.instagram.com/ekohardiyanto19)
   - GitHub          : [ehardi19](https://github.com/ehardi19)
-- Hobi
-  - Gaming
-  - Belajar Programming
+
 - Riwayat Penidikan
 
 Instansi     | Tahun
@@ -28,6 +26,11 @@ Telkom University - S1 Teknik Informatika | 2017-Present
 SMAN 4 Depok - IPA | 2014-2017
 SMPN 103 Jakarta  | 2011-2014
 SDN Cibubur 05  | 2005-2011
+
+- Hobi
+
+- [x] Belajar Programming
+- [x] Gaming
 
 # ALASAN INGIN MASUK COMPUTING
 
